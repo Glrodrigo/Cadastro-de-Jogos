@@ -1,0 +1,15 @@
+C:\Users\glrod\DigitalInovation\ExercicioD\bin\Debug\net6.0\ExercicioD.exe
+C:\Users\glrod\DigitalInovation\ExercicioD\bin\Debug\net6.0\ExercicioD.deps.json
+C:\Users\glrod\DigitalInovation\ExercicioD\bin\Debug\net6.0\ExercicioD.runtimeconfig.json
+C:\Users\glrod\DigitalInovation\ExercicioD\bin\Debug\net6.0\ExercicioD.dll
+C:\Users\glrod\DigitalInovation\ExercicioD\bin\Debug\net6.0\ref\ExercicioD.dll
+C:\Users\glrod\DigitalInovation\ExercicioD\bin\Debug\net6.0\ExercicioD.pdb
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.csproj.AssemblyReference.cache
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.AssemblyInfoInputs.cache
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.AssemblyInfo.cs
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.csproj.CoreCompileInputs.cache
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.dll
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ref\ExercicioD.dll
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.pdb
+C:\Users\glrod\DigitalInovation\ExercicioD\obj\Debug\net6.0\ExercicioD.genruntimeconfig.cache
